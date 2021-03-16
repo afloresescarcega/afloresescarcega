@@ -7,3 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afloresescarcega" />
 </a>
 
+
+| Sidebar | View a graph of the subreddits that mention other subreddits on their sidebar | [http://afescar.com/sidebar](http://afescar.com/sidebar) |
+|---------|-------------------------------------------------------------------------------|----------------------------------------------------------|
